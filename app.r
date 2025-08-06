@@ -1,4 +1,4 @@
-# Load packages used by the app. Install missing packages, if needed.
+# Load packages used by the app. Install missing packages, if needs be.
 library(shiny)
 library(bslib)
 library(thematic)
